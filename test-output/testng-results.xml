@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[</br>Login with user name uuseriat and password ServiceRole123#]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify user login succesfully]]>
+    </line>
+    <line>
+      <![CDATA[</br>Click on Hamburger Menu]]>
+    </line>
+    <line>
+      <![CDATA[</br>Click on Customer]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify Customer Page]]>
+    </line>
+    <line>
+      <![CDATA[</br>click on new customer button]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify new customer page]]>
+    </line>
+    <line>
+      <![CDATA[</br>enter new customer details]]>
+    </line>
+    <line>
+      <![CDATA[</br>click on create customer button]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify Customer Page]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify newly created customer on customer page ]]>
+    </line>
+    <line>
+      <![CDATA[</br>Logout from application]]>
+    </line>
+    <line>
+      <![CDATA[</br>verify logout successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41108" started-at="2017-05-04T07:46:05Z" finished-at="2017-05-04T07:46:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41108" started-at="2017-05-04T07:46:05Z" finished-at="2017-05-04T07:46:46Z">
+      <class name="com.mobizio.testscript.CreateNewCustomerWithAllDetails">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mobizio.testscript.CreateNewCustomerWithAllDetails@3c9754d8]" name="setUp" is-config="true" duration-ms="8002" started-at="2017-05-04T13:16:05Z" finished-at="2017-05-04T13:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initiData()[pri:0, instance:com.mobizio.testscript.CreateNewCustomerWithAllDetails@3c9754d8]" name="initiData" is-config="true" duration-ms="13" started-at="2017-05-04T13:16:13Z" finished-at="2017-05-04T13:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiData -->
+        <test-method status="PASS" signature="createNewCustomerWithAllDetails()[pri:0, instance:com.mobizio.testscript.CreateNewCustomerWithAllDetails@3c9754d8]" name="createNewCustomerWithAllDetails" duration-ms="31828" started-at="2017-05-04T13:16:13Z" description="create new customer with all fields" finished-at="2017-05-04T13:16:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</br>Login with user name uuseriat and password ServiceRole123#]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify user login succesfully]]>
+            </line>
+            <line>
+              <![CDATA[</br>Click on Hamburger Menu]]>
+            </line>
+            <line>
+              <![CDATA[</br>Click on Customer]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify Customer Page]]>
+            </line>
+            <line>
+              <![CDATA[</br>click on new customer button]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify new customer page]]>
+            </line>
+            <line>
+              <![CDATA[</br>enter new customer details]]>
+            </line>
+            <line>
+              <![CDATA[</br>click on create customer button]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify Customer Page]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify newly created customer on customer page ]]>
+            </line>
+            <line>
+              <![CDATA[</br>Logout from application]]>
+            </line>
+            <line>
+              <![CDATA[</br>verify logout successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewCustomerWithAllDetails -->
+        <test-method status="PASS" signature="afterMainMethod()[pri:0, instance:com.mobizio.testscript.CreateNewCustomerWithAllDetails@3c9754d8]" name="afterMainMethod" is-config="true" duration-ms="1245" started-at="2017-05-04T13:16:45Z" finished-at="2017-05-04T13:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMainMethod -->
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:com.mobizio.testscript.CreateNewCustomerWithAllDetails@3c9754d8]" name="tearDownSuite" is-config="true" duration-ms="0" started-at="2017-05-04T13:16:46Z" finished-at="2017-05-04T13:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- com.mobizio.testscript.CreateNewCustomerWithAllDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

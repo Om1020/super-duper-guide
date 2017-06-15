@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Logout"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.666">
+  <properties />
+  
+  
+            <testcase name="createNewGroup" time="20.666" classname="com.mobizio.testscript.CreateNewGroup" />
+      
+</testsuite>
